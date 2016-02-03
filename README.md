@@ -1,7 +1,8 @@
 # Ember-simple-auth
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Simple front end using emberjs
+
+In future updates this will become a front-end web Ember-based with a simple session service, a navigation bar and a menu. The goal is to provide a simple web application structure to start with, that already has session control, for it is a common requirement in web applications.
 
 ## Prerequisites
 
@@ -50,4 +51,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
